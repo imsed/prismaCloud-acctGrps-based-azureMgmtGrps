@@ -1,5 +1,3 @@
-# prismaCloud-acctGrps-based-azureMgmtGrps
-
 # IMPORTANT: update "API_config.ini" file before running the script. The following fields are currently empty and need to be updated:
 ```
 URL --> introduce your API URL (e.g. "https://api2.eu.prismacloud.io")
