@@ -13,7 +13,7 @@ servicePrincipalId --> the service principal Enterprise Application Object ID
     
 ## Functioning description:
 
-- The script contains couple of functions that helps automat account groups creation and manipulation. The main use case is to create account groups based on azure management groups and auto map subscription to account groups
+- The script contains couple of functions that helps automat account groups creation and manipulation. The main use case is to create account groups based on azure management groups and auto map subscriptions to account groups
 
 
 ## Applicable use cases:
