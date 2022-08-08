@@ -1,0 +1,1 @@
+# prismaCloud-acctGrps-based-azureMgmtGrps
